@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4f11aef-e3a5-4651-989b-84ac1ef87a43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1fptCKgxT1BWvYXC7v1B8DabfC4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/notterness/go_server_test" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="go_server_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/notterness/go_server_test" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$/out" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f11aef-e3a5-4651-989b-84ac1ef87a43" name="Default Changelist" comment="" />
+      <created>1596926732625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596926732625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2760" y="489" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596927239186">
+      <screen x="1680" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2760" y="489" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.3440.1417/0.23.1680.980@1680.23.3440.1417" timestamp="1596927239186" />
+    <state width="2041" height="326" key="GridCell.Tab.0.bottom" timestamp="1596994219874">
+      <screen x="1680" y="23" width="3440" height="1417" />
+    </state>
+    <state width="2041" height="326" key="GridCell.Tab.0.bottom/1680.23.3440.1417/0.23.1680.980@1680.23.3440.1417" timestamp="1596994219874" />
+    <state width="2041" height="326" key="GridCell.Tab.0.center" timestamp="1596994219873">
+      <screen x="1680" y="23" width="3440" height="1417" />
+    </state>
+    <state width="2041" height="326" key="GridCell.Tab.0.center/1680.23.3440.1417/0.23.1680.980@1680.23.3440.1417" timestamp="1596994219873" />
+    <state width="2041" height="326" key="GridCell.Tab.0.left" timestamp="1596994219872">
+      <screen x="1680" y="23" width="3440" height="1417" />
+    </state>
+    <state width="2041" height="326" key="GridCell.Tab.0.left/1680.23.3440.1417/0.23.1680.980@1680.23.3440.1417" timestamp="1596994219872" />
+    <state width="2041" height="326" key="GridCell.Tab.0.right" timestamp="1596994219873">
+      <screen x="1680" y="23" width="3440" height="1417" />
+    </state>
+    <state width="2041" height="326" key="GridCell.Tab.0.right/1680.23.3440.1417/0.23.1680.980@1680.23.3440.1417" timestamp="1596994219873" />
+    <state x="2805" y="466" key="SettingsEditor" timestamp="1596927265005">
+      <screen x="1680" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2805" y="466" key="SettingsEditor/1680.23.3440.1417/0.23.1680.980@1680.23.3440.1417" timestamp="1596927265005" />
+  </component>
+</project>
