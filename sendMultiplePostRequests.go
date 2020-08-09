@@ -89,7 +89,7 @@ func testParallelPosts() bool {
 	var passed = true
 	for i := 2; i < requestsToSend+2; i++ {
 		if postResponseReceived[i] != true {
-			log.Printf("Response for request %d is missing\n")
+			log.Printf("Response for request %d is missing\n", i)
 			passed = false
 			break
 		}
@@ -149,6 +149,11 @@ func testPost() {
 **   to insure that the <identifier> returned is always unique.
  */
 func extractIdentifier(response string) int64 {
+	/*
+	** If the DEBUG fmt.Fprintf(w, "%s %s %s\n", r.Method, r.URL, r.Proto) line in the go_server
+	**   handler() is enabled, then the additional parsing is required.
+	 */
+	/* Additional parsing to handle the go_server DEBUG line
 	pos := strings.LastIndex(response, PartialPostResponse)
 	if pos == -1 {
 		return -1
@@ -160,6 +165,9 @@ func extractIdentifier(response string) int64 {
 	}
 
 	intString := strings.TrimRight(response[adjustedPos:len(response)], "\n")
+	 */
+
+	intString := strings.TrimRight(response, "\n")
 
 	/*
 	** Now convert the intString to an actual integer
