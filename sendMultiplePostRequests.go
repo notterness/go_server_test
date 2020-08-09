@@ -43,6 +43,8 @@ func testParallelPosts() bool {
 	 */
 	postResponseReceived[1] = true
 
+	log.Println("Starting parallel POST /hash sends")
+
 	var loopCount = 0
 	for {
 		var i = 0
